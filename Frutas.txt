@@ -8,3 +8,7 @@ Bacaba
 Banana
 Maça
 Manga
+Jaca
+Uva
+Tomate
+
